@@ -9,7 +9,7 @@ im Neeraj , passionate in developing software 🧑‍💻
  📥 : https://www.instagram.com/neeerjj/profilecard/?igsh=bXk1YXZzYmhyNThs
 
  
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dart/dart-original-wordmark.svg" />
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original-wordmark.svg" alt="Dart" width="40" height="40" />
           
 
 
