@@ -4,9 +4,11 @@ im Neeraj , passionate in developing software 🧑‍💻
 
 🔭 I’m currently learning flutter 
 
- 📫  reach me: https://www.linkedin.com/in/neeraj-t-870938342?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app
+ 📫  linkedin : https://www.linkedin.com/in/neeraj-t-870938342?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app
  
- 📥 : https://www.instagram.com/neeerjj/profilecard/?igsh=bXk1YXZzYmhyNThs
+ 📥connect with me : https://www.instagram.com/neeerjj/profilecard/?igsh=bXk1YXZzYmhyNThs
+
+ mail 📫 : neerajkeeriyad@gmail.com
    
  
         
