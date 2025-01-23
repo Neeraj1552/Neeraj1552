@@ -7,7 +7,6 @@
 
 - 🔭 I’m currently working on **Flutter project**
 - 🌱 I’m currently learning **SQL**
-- 💬 Ask me about **Flutter**
 - 📫 How to reach me **neerajkeeriyad@gmail.com**
 
 <div> <a href="https://www.linkedin.com/in/https://www.linkedin.com/in/neeraj-t-870938342?utm_source=share&utm_campaign=share" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
