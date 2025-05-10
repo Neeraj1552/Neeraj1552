@@ -6,7 +6,6 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Neeraj1552&theme=" alt="Neeraj1552" /></a> </p>
 
 - 🔭 I’m Currently working on **Flutter Projects**
-- 🌱  Currently Iam Learning **SQL**
 - 📫 Reach Me   **neerajkeeriyad@gmail.com**
 
 <div> <a href="https://www.linkedin.com/in/https://www.linkedin.com/in/neeraj-t-870938342?utm_source=share&utm_campaign=share" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
